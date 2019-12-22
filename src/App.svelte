@@ -345,7 +345,7 @@
       transition:fly={{ x: 30, delay: 210 }}
       itemscope
       itemtype="http://schema.org/Person">
-      <h1 itemprop="name">Mathieu Anderson is a web dev</h1>
+      <h1 itemprop="name">Resaldi Ramadhan Putra is a Dev and UI/UX Designer.</h1>
       <div class="title-icons">
         <SocialIcons {darkTheme} />
         <button

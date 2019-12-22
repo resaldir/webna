@@ -10,3 +10,4 @@ A personal website with Svelte
 - Minimalistic approach suited to simple project
 - Animation library out of the box for slight fanciness
 - Riding the hype train
+# webna
