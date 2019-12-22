@@ -11,3 +11,4 @@ A personal website with Svelte
 - Animation library out of the box for slight fanciness
 - Riding the hype train
 # webna
+# webna
